@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [https://65e2a9b8d5105e69765d9d71--peppy-madeleine-984486.netlify.app/](https://65e2a9b8d5105e69765d9d71--peppy-madeleine-984486.netlify.app/)
-
 - 💬 Ask me about **Full Stack Web Development**
 
 <h3 align="left">Connect with me:</h3>
